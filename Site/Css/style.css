@@ -1,0 +1,471 @@
+label{
+    color: #555
+}
+.feature-block{
+    display: inline-block;
+}
+.header-first-display{
+    background: #c4bfbf;
+}
+.header{
+    padding-top: 15px;
+}
+.cost-menu{
+    margin-top: 50px;
+}
+.reviews-mainslider-prev-btn{
+    left: -120px;
+}
+.reviews-mainslider-next-btn{
+    right: -120px;
+}
+.slider-img{
+    width: 80%;
+}
+.fotorama{
+    margin: 5px;
+}
+.reviews-mainslider-slide{
+    outline: 0 !important;
+}
+.doubts{
+    position: relative;
+}
+.scheme-img{
+    width: 40%;
+}
+.map-map{
+    border-radius: 20px;
+}
+.doubts-block-list-2{
+    list-style-image: url(../Img/icons/x-mark.png);
+    padding-bottom: 15px;
+}
+.doubts-block-list-1{
+    list-style-image: url(../Img/icons/tick-sign.png);
+    padding-bottom: 15px;
+}
+.features{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.first-display{
+    padding-top: 80px;
+    background: url(../Img/backgrounds/bg_01.png)
+    center bottom no-repeat;
+    background-size: 100%;
+    padding-bottom: 48px
+}
+.img-header-logo{
+    width: 48px;
+    display: inline-block; 
+    vertical-align: top;   
+}
+.logo-texts{
+    text-transform: uppercase;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 0.5;
+    margin-top: 10px;
+}
+.text-logo{
+    display: block;
+    font: 24px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.header-number{
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+    font: 24px;
+    color: #fff;
+    text-decoration: none;
+    text-align: right;
+}
+.phone-number-btn{
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 70%;
+    margin-top: 4px;
+    border: none;
+    background: #61D100;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    outline: 0 !important;
+}
+.first-display-h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;    
+}
+.first-display-p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 60px
+}
+.first-display-span{
+    display: inline-block;
+    background-color: #61D100;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: #fff;
+    font-size: 16px
+}
+.first-display-form-p1{
+    font-size: 20px;
+    font-weight:500;
+    margin-top:10px;
+    text-align: center;
+}
+.first-display-form-p2{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+    text-align: center;
+}
+.first-display-form{
+    background:#fff;
+    border: solid;
+    border-radius: 10px;
+    padding: 15px;
+    text-align:center;
+}
+.first-display-form-input-name{
+    border: 1px solid #ddd;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+.first-display-form-input-number{
+    border: 1px solid #ddd;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+.first-display-form-button{
+    background: #61D100;
+    color: #fff;
+    width: 100%;
+    height:50px;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;   
+    outline: 0 !important;
+}
+.section-header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}   
+.feature-block-img{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.feature-block-title{
+    margin-top: 30px;
+    font-size: 150%;
+    text-align: center;
+    font-weight: 600;
+    color:#000;
+}
+.feature-block-text{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: #000;
+}
+.cost-text{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+.cost-calculator{
+    border: none;
+    float: right;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;   
+    outline: 0 !important;
+}
+.cost-block{
+    background-color: #fff;
+    border-radius: 15px;
+}
+.cost{
+    padding-top: 50px;
+    background-color: #61D100;
+    padding-bottom: 50px;
+}
+.cost-block-text{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.cost-block-cost{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.cost-block-img{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    margin-bottom: 10px;    
+}
+.doubts{
+    background-color:#61D100 ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.doubts-text{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.doubts-block-1{
+    margin-top: 20px;
+    margin-right: 70px;
+    border-radius: 20px;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.doubts-block-2{
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 20px;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.doubts-block-title{
+    margin-top: 20px;
+    margin-bottom:20px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+.doubts-block-list-li{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    vertical-align: top;
+}
+.doubts-img{
+    position: absolute;
+    left: 50%;
+    margin-left: -13%;
+    width: 25%;
+    bottom: -0.4%;
+}
+.reviews{
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.reviews-title-text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.reviews-mainslider{
+    box-shadow: 0 0 25px rgba(0,0,0,0.5);
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.reviews-mainslider-btn{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 70px;
+    border-radius: 35px;
+    border: none;
+    background: #fff;
+    box-shadow: 0 0 25px rgba(0,0,0,0.5);   
+    outline: 0 !important;
+}
+.reviews-media-img{
+    border: 2px solid;
+    width: 60px;
+    border-radius: 50%;
+    margin-left:15px;
+    margin-top: 5px;
+    margin-right:10px;
+}
+.reviews-media-body-name{
+    font-size: 20px;
+    font-weight: 600;-
+}
+.work{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #fff;
+}
+.work-title{
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+}
+.work-input{
+    border: 2px solid #555;
+    display: block;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+}
+.work-name{
+    text-align: center;
+    margin-top: 50px;
+}
+.work-number{
+    text-align: center;
+    margin-top: 50px;
+}
+.work-btn{
+    margin-top: 50px;
+    background: #61D100;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    font-weight: 500;
+    font-size: 20px;
+    outline: 0 !important;
+}
+.scheme{
+    padding-top: 50px;
+    background: #fff;
+}
+.scheme-title{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.scheme-block{
+    /*border: 2px solid;*/` 
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.scheme-block-title{
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+}
+.scheme-block-text{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 18px;
+    font-weight: 400;
+}
+.map{
+    padding-bottom: 70px;
+    padding-top: 50px;
+    background: #61D100
+}
+.map-title{
+    font-size:40px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.map-text{
+    border-radius: 20px;
+    background: #fff;
+    font-weight: 500;
+    padding: 15px;
+}
+.tour{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background: #fff;
+    background: url(../Img/backgrounds/bg_02.png)
+    center no-repeat;
+    background-size: 40%
+}
+.tour-title{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.tour-form-p1{
+    font-size: 20px;
+    font-weight:500;
+    margin-top:10px;
+    text-align: center;
+}
+.tour-form-p2{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+    text-align: center;
+}
+.tour-form{
+    background:#fff;
+    border: solid;
+    border-radius: 10px;
+    padding: 15px;
+    text-align:center;
+}
+.tour-form-input-name{
+    border: 1px solid #ddd;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+.tour-form-input-number{
+    border: 1px solid #ddd;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+.tour-form-button{
+    background: #61D100;
+    color: #fff;
+    width: 100%;
+    height:50px;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;   
+    outline: 0 !important;
+}
+.tour-first-text{
+    font-size: 36px;
+    font-weight: 500;
+}
+.tour-second-text{
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 110px;
+}
+.create{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #c4bfbf;
+}
+.create-by{
+    color: #fff;
+    font-size: 20px;
+    font-family: initial;
+    text-align: center;
+}
